@@ -1,9 +1,10 @@
 package text1;
+// 问题编号13
+
 import text1.StudentManager;
+// 问题编号13
+
 import java.util.ArrayList;
-/**
- * 测试类，在其Main方法中执行StudentManager的app方法
- */
 
 public class SMTest {
     public static void main(String[] args){
